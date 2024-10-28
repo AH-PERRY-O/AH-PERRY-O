@@ -1,4 +1,4 @@
-## Hi there, I'm AH PERRY O 👋
+## Hi there, I'm Aiden 👋
 
 Welcome to my GitHub profile! I'm a 15-year-old coding enthusiast who loves creating clean and user-friendly web applications. Here, you'll find a variety of projects that showcase my skills in front-end and back-end development, UI/UX design, and more.
 
